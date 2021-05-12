@@ -1,0 +1,87 @@
+{
+  "Records": [
+      {
+          "eventVersion": "2.1",
+          "eventSource": "aws:s3",
+          "awsRegion": "us-west-2",
+          "eventTime": "2021-05-12T04:48:33.649Z",
+          "eventName": "ObjectCreated:Copy",
+          "userIdentity": {
+              "principalId": "AD9QJYY86HQAY"
+          },
+          "requestParameters": {
+              "sourceIPAddress": "73.221.78.101"
+          },
+          "responseElements": {
+              "x-amz-request-id": "VD6149D0E610H2QH",
+              "x-amz-id-2": "XBw+wLoABeNgy4beSfcfRnLPWQnlXiRHH6/sw26mvp7nRevP9JOmKtQQU7zoixrrhNX/IrrJWTKCJhrfw5fGvUDq0A8UzUbu"
+          },
+          "s3": {
+              "s3SchemaVersion": "1.0",
+              "configurationId": "e9d98426-87f7-4328-837c-3d011dc30967",
+              "bucket": {
+                  "name": "fun-2-bucket",
+                  "ownerIdentity": {
+                      "principalId": "AD9QJYY86HQAY"
+                  },
+                  "arn": "arn:aws:s3:::fun-2-bucket"
+              },
+              "object": {
+                  "key": "download006.jfif",
+                  "size": 196058,
+                  "eTag": "7cb3712804d929fe48a7ecca949d7b1b",
+                  "sequencer": "00609B5E2988C7ABF4"
+              }
+          }
+      }
+  ]
+}
+[
+{
+  "name": "IamGoodEnoughLouiseHay.jfif",
+  "size": 37907,
+  "tag": "\"324c5b760aef41628cc6af1db44175ff\""
+}
+,
+{
+  "name": "Youcanhealyourlife.jfif",
+  "size": 19416,
+  "tag": "\"51d67ae84458789ee0e2d240325abd7a\""
+}
+,
+{
+  "name": "cookiemonster003.jfif",
+  "size": 43871,
+  "tag": "\"0d2b9b3ce45433dcc6f3eb451411c20d\""
+}
+,
+{
+  "name": "download006.jfif",
+  "size": 196058,
+  "tag": "\"7cb3712804d929fe48a7ecca949d7b1b\""
+}
+,
+{
+  "name": "high-budget.jpg",
+  "size": 364451,
+  "tag": "\"2d96a01b33c7aff3ed4855f493e4a4ce\""
+}
+,
+{
+  "name": "purpose-1068x712.webp",
+  "size": 65640,
+  "tag": "\"0ca4980bde36bdc903fc86a316e16102\""
+}
+,
+{
+  "name": "ufo.jpg",
+  "size": 13410,
+  "tag": "\"ec687925e0dcfbdcf67cc33c2b0072a5\""
+}
+,
+{
+  "name": "zoom_background001.jpg",
+  "size": 265539,
+  "tag": "\"af397c4bfeb2e0ffe57717608c05e660\""
+}
+]

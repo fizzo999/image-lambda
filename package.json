@@ -1,0 +1,24 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "AWS  image array / dictionary",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fizzo999/image-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fizzo999/image-lambda/issues"
+  },
+  "homepage": "https://github.com/fizzo999/image-lambda#readme",
+  "dependencies": {
+    "aws-s3": "^2.0.5",
+    "aws-sdk": "^2.905.0"
+  }
+}
