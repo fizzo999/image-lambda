@@ -15,7 +15,7 @@ exports.handler = async (event, context) => {
 
   try {
         // Call S3 to obtain a list of the objects in the bucket
-        ImageObjectsList = await s3.listObjects(bucketParams).promise();
+        ImageObjectsList = await s3.listObjects(bucketParams);
         imageArray = ImageObjectsList.Contents.map(item => {
 
             let ImageObjects = {

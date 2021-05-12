@@ -33,15 +33,9 @@ not sure how to explain this. I followed the steps from class this morning and I
 ![screenshot 003](./assets/2059.PNG)
 ![screenshot 004](./assets/2060.PNG)
 
-#### Tests
-
-Unit Tests: npm run test (coming soon)
-
 ## Architecture
 
 - s3 bucket with manually uploaded images
-- connect to
-- tests performed with jest and supertest
 
 ## Change Log
 
@@ -49,8 +43,10 @@ Unit Tests: npm run test (coming soon)
 
 ## Credits and Collaborations
 
+special shout out to Brendan Smith and Jarrell Houston for help with AWS Lambda
+
 Number and name of feature: s3 bucket setup, lambda setup, many maany tests and uploads - implementation
 Estimate of time needed to complete: 4 hours
 Start time: 4:00 pm
-Finish time: 11:00 pm
-Actual time needed to complete: 6 hours
+Finish time: 12:00 pm
+Actual time needed to complete: 8 hours
